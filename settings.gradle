@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Android Xml Login UI 5'
